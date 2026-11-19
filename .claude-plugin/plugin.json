@@ -4,5 +4,9 @@
   "license": "MIT",
   "author": { "name": "CodeZooZoo", "url": "https://github.com/CodeZooZoo" },
   "homepage": "https://github.com/CodeZooZoo/reveal-paths",
-  "description": "Desktop app: click a file path in a Claude reply and File Explorer opens with that file selected. Path finding from open-paths (MIT)."
+  "repository": "https://github.com/CodeZooZoo/reveal-paths",
+  "icon": "./.claude-plugin/icon.png",
+  "displayName": "Reveal Paths",
+  "keywords": ["mod", "paths", "explorer", "windows", "desktop", "cmd"],
+  "description": "Claude desktop app (Windows): click a file path in a reply and File Explorer opens with it selected; right-click a .cmd/.bat for Run, Run as admin, PowerShell, Claude's terminal or Claude CLI."
 }
