@@ -1,0 +1,8 @@
+{
+  "name": "reveal-paths",
+  "version": "0.2.0",
+  "license": "MIT",
+  "author": { "name": "CodeZooZoo", "url": "https://github.com/CodeZooZoo" },
+  "homepage": "https://github.com/CodeZooZoo/reveal-paths",
+  "description": "Desktop app: click a file path in a Claude reply and File Explorer opens with that file selected. Path finding from open-paths (MIT)."
+}

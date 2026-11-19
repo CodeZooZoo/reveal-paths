@@ -1,0 +1,18 @@
+{
+  "name": "reveal-paths",
+  "owner": { "name": "CodeZooZoo", "url": "https://github.com/CodeZooZoo" },
+  "metadata": { "description": "Claude desktop app mod: click a file path to show it in File Explorer; right-click a .cmd for run options" },
+  "plugins": [
+    {
+      "name": "reveal-paths",
+      "source": "./",
+      "description": "Claude desktop app (Windows): click a file path in a reply and File Explorer opens with it selected; right-click a .cmd/.bat for Run, Run as admin, PowerShell, Claude's terminal or Claude CLI.",
+      "version": "0.2.0",
+      "author": { "name": "CodeZooZoo", "url": "https://github.com/CodeZooZoo" },
+      "homepage": "https://github.com/CodeZooZoo/reveal-paths",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["mod", "paths", "explorer", "windows", "desktop"]
+    }
+  ]
+}
